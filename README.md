@@ -109,7 +109,7 @@ Texto de la subsección...
 </details>
 
 <details>
-<summary><h2>8. Servicios explicados de un modo sencillo (vinculado al diagrama de la red)</h2></summary>
+<summary><h2>8. Servicios </h2></summary>
 
 Texto de la sección...
 
