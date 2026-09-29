@@ -31,7 +31,7 @@ Aplicación web y plataforma para el registro y control de horario laboral de em
 <details>
 <summary><b>2. Introducción - ¿qué estamos haciendo?</b></summary>
 
-Texto de la sección...
+Aplicación web y plataforma para el registro y control de horario laboral de empleados (fichaje)
 </details>
 
 <details>
