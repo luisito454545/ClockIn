@@ -29,48 +29,48 @@ Aplicación web y plataforma para el registro y control de horario laboral de em
 ---
 
 <details>
-<summary><b>2. Introducción - ¿qué estamos haciendo?</b></summary>
+<summary><h2>2. Introducción - ¿qué estamos haciendo?</h2></summary>
 
-Aplicación web y plataforma para el registro y control de horario laboral de empleados (fichaje)
+Aplicación web y plataforma para el registro y control de horario laboral de empleados (fichaje).
 </details>
 
 <details>
-<summary><b>3. Briefing de ideas</b></summary>
+<summary><h2>3. Briefing de ideas</h2></summary>
 
 Texto de la sección...
 </details>
 
 <details>
-<summary><b>4. Arquitectura del software</b></summary>
+<summary><h2>4. Arquitectura del software</h2></summary>
 
 Texto de la sección...
 </details>
 
 <details>
-<summary><b>5. Tecnologías a utilizar</b></summary>
+<summary><h2>5. Tecnologías a utilizar</h2></summary>
 
 Texto de la sección...
 </details>
 
 <details>
-<summary><b>6. Red</b></summary>
+<summary><h2>6. Red</h2></summary>
 
 Texto de la sección...
 
 <details>
-<summary><b>6.1 Diagrama de la red</b></summary>
+<summary><h3>6.1 Diagrama de la red</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>6.2 Mapa físico</b></summary>
+<summary><h3>6.2 Mapa físico</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>6.3 Mapa lógico</b></summary>
+<summary><h3>6.3 Mapa lógico</h3></summary>
 
 Texto de la subsección...
 </details>
@@ -78,30 +78,30 @@ Texto de la subsección...
 </details>
 
 <details>
-<summary><b>7. Web</b></summary>
+<summary><h2>7. Web</h2></summary>
 
 Texto de la sección...
 
 <details>
-<summary><b>7.1 Diseño</b></summary>
+<summary><h3>7.1 Diseño</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>7.2 Mockup</b></summary>
+<summary><h3>7.2 Mockup</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>7.3 Mapa de navegabilidad</b></summary>
+<summary><h3>7.3 Mapa de navegabilidad</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>7.4 Base de datos</b></summary>
+<summary><h3>7.4 Base de datos</h3></summary>
 
 Texto de la subsección...
 </details>
@@ -109,36 +109,36 @@ Texto de la subsección...
 </details>
 
 <details>
-<summary><b>8. Servicios explicados de un modo sencillo (vinculado al diagrama de la red)</b></summary>
+<summary><h2>8. Servicios explicados de un modo sencillo (vinculado al diagrama de la red)</h2></summary>
 
 Texto de la sección...
 
 <details>
-<summary><b>8.1 DNS</b></summary>
+<summary><h3>8.1 DNS</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>8.2 DHCP</b></summary>
+<summary><h3>8.2 DHCP</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>8.3 Apache</b></summary>
+<summary><h3>8.3 Apache</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>8.4 Firewall</b></summary>
+<summary><h3>8.4 Firewall</h3></summary>
 
 Texto de la subsección...
 </details>
 
 <details>
-<summary><b>8.5 Copias de seguridad</b></summary>
+<summary><h3>8.5 Copias de seguridad</h3></summary>
 
 Texto de la subsección...
 </details>
@@ -146,19 +146,19 @@ Texto de la subsección...
 </details>
 
 <details>
-<summary><b>9. Conclusiones</b></summary>
-
-Texto de la sección...
-</details>
-
-<details>
-<summary><b>10. Bibliografía</b></summary>
+<summary><h2>9. Conclusiones</h2></summary>
 
 Texto de la sección...
 </details>
 
 <details>
-<summary><b>11. Guías de usuario</b></summary>
+<summary><h2>10. Bibliografía</h2></summary>
+
+Texto de la sección...
+</details>
+
+<details>
+<summary><h2>11. Guías de usuario</h2></summary>
 
 Texto de la sección...
 </details>
