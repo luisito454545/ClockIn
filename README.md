@@ -50,13 +50,14 @@ La app permite de manera sencilla fichar en la oficina comprobando la ubicación
 ---
 
 ## Objetivos (Hasta dónde queremos llegar)
-Queremos dejar programado un Producto Mínimo Viable (MVP) que funcione bien y tenga:
+Programar un Producto Mínimo Viable (MVP) que funcione bien y Cumpla los requisitos mas importantes relacionado con el fichaje de clientes.
 
-* **Login con roles:** Entradas distintas para empleados y para los administradores de la empresa.
-* **Fichaje presencial con GPS:** La app lee la ubicación del móvil y solo deja fichar si estás cerca de la oficina.
-* **Modo teletrabajo:** Una opción para marcar que trabajas desde casa validando la red o la IP.
-* **Detección de fichajes sospechosos:** Un filtro en el servidor que avise si hay cambios de ubicación imposibles o IPs raras.
-* **Panel web de gestión:** Una web donde el jefe o RRHH pueda ver quién está trabajando y descargarse los informes del mes en PDF o Excel.
+Objetivos especificos:
+* **Crear usurarios y roles:** Entradas distintas para empleados y para los administradores de la empresa.
+* **Desarollar las funciones del fichaje presencial con GPS:** La app lee la ubicación del móvil y solo deja fichar si estás cerca de la oficina.
+* **Controlar el modo teletrabajo:** Una opción para marcar que trabajas desde casa validando la red o la IP.
+* **Detectar fichajes sospechosos:** Un filtro en el servidor que avise si hay cambios de ubicación imposibles o IPs raras.
+* **Crear un panel web de gestión:** Una web donde el jefe o RRHH pueda ver quién está trabajando y descargarse los informes del mes en PDF o Excel.
 
 ---
 
