@@ -43,9 +43,9 @@ Aplicación web y plataforma para el registro y control de horario laboral de em
 ---
 
 ## Justificación
-Guillem y yo elegimos este proyecto porque la ley obliga a todas las empresas a llevar un registro de las horas de los trabajadores, pero muchas PYMEs siguen usando hojas de papel o archivos de Excel. 
+Se elije este proyecto porque la ley obliga a todas las empresas a llevar un registro de las horas de los trabajadores, pero muchas PYMEs siguen usando hojas de papel o archivos de Excel. 
 
-Queremos hacer una solución fácil de usar y barata. La app permite fichar en la oficina comprobando la ubicación por el GPS del móvil (para no tener que comprar máquinas de huella ni tarjetas) y también deja fichar si trabajas desde casa. Además, le metemos una lógica al servidor para pillar fichajes raros o manipulados. Nos viene perfecto porque tocamos desarrollo web, apps, bases de datos, redes y seguridad.
+La app permite de manera sencilla fichar en la oficina comprobando la ubicación por el GPS del móvil (para no tener que comprar máquinas de huella ni tarjetas), además deja fichar si trabajas desde casa y finalmente, se contará con un sistema de detección de fraude de fichaje. Nos viene perfecto porque tocamos desarrollo web, apps, bases de datos, redes y seguridad.
 
 ---
 
