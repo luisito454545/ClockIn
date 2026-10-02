@@ -37,7 +37,13 @@ Aplicación web y plataforma para el registro y control de horario laboral de em
 <details>
 <summary><h2>3. Briefing de ideas</h2></summary>
 
-Texto de la sección...
+Idea seleccionada (Título del proyecto)
+Justificar la elección de esa idea
+Hasta donde quiero llegar con el proyecto (Objetivos)
+A quién va dirigido este proyecto (Público objetivo)
+Módulos del ciclo que tengan que ver con el proyecto (2 o más)
+Materiales necesarios (físicos y lógicos)
+Recursos (Bibliografía, webgrafía, vídeos, cursos o demás multimedia)
 </details>
 
 <details>
