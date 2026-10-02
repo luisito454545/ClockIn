@@ -36,14 +36,68 @@ Aplicación web y plataforma para el registro y control de horario laboral de em
 
 <details>
 <summary><h2>3. Briefing de ideas</h2></summary>
+# Proyecto Orbis - Sistema de Fichaje y Control Horario
 
-Idea seleccionada (Título del proyecto)
-Justificar la elección de esa idea
-Hasta donde quiero llegar con el proyecto (Objetivos)
-A quién va dirigido este proyecto (Público objetivo)
-Módulos del ciclo que tengan que ver con el proyecto (2 o más)
-Materiales necesarios (físicos y lógicos)
-Recursos (Bibliografía, webgrafía, vídeos, cursos o demás multimedia)
+## Idea seleccionada
+**ClockIn**: Una página web y una app móvil para que los empleados puedan fichar al entrar y salir a trabajar, controlar las horas y gestionar el teletrabajo.
+
+---
+
+## Justificación
+Guillem y yo elegimos este proyecto porque la ley obliga a todas las empresas a llevar un registro de las horas de los trabajadores, pero muchas PYMEs siguen usando hojas de papel o archivos de Excel. 
+
+Queremos hacer una solución fácil de usar y barata. La app permite fichar en la oficina comprobando la ubicación por el GPS del móvil (para no tener que comprar máquinas de huella ni tarjetas) y también deja fichar si trabajas desde casa. Además, le metemos una lógica al servidor para pillar fichajes raros o manipulados. Nos viene perfecto porque tocamos desarrollo web, apps, bases de datos, redes y seguridad.
+
+---
+
+## Objetivos (Hasta dónde queremos llegar)
+Queremos dejar programado un Producto Mínimo Viable (MVP) que funcione bien y tenga:
+
+* **Login con roles:** Entradas distintas para empleados y para los administradores de la empresa.
+* **Fichaje presencial con GPS:** La app lee la ubicación del móvil y solo deja fichar si estás cerca de la oficina.
+* **Modo teletrabajo:** Una opción para marcar que trabajas desde casa validando la red o la IP.
+* **Detección de fichajes sospechosos:** Un filtro en el servidor que avise si hay cambios de ubicación imposibles o IPs raras.
+* **Panel web de gestión:** Una web donde el jefe o RRHH pueda ver quién está trabajando y descargarse los informes del mes en PDF o Excel.
+
+---
+
+## Público objetivo
+1. **PYMEs:** Empresas pequeñas que necesitan cumplir la ley sin gastar en aparatos de fichaje.
+2. **Empresas con trabajo híbrido:** Negocios donde la gente alterna días de oficina y días en casa.
+3. **Gestores de personal:** Para los que tienen que revisar los fichajes y sacar los informes a final de mes.
+
+---
+
+## Módulos del ciclo relacionados
+* **Sistemas Operativos en Red (SOR):** Para montar el servidor, configurar la base de datos y gestionar los permisos.
+* **Aplicaciones Web (AW):** Para programar el panel de control en la web y conectarlo con la base de datos.
+* **Redes Locales (RL):** Para controlar las direcciones IP y saber si el usuario está conectado a la red de la oficina.
+* **Seguridad Informática (SI):** Para cifrar las contraseñas, asegurar las conexiones y proteger los datos de ubicación de los usuarios.
+
+---
+
+## Materiales necesarios
+
+### Hardware
+* Nuestros ordenadores para programar y hacer las pruebas.
+* Un teléfono móvil para probar la app y el GPS en la calle.
+* Un router para hacer pruebas de red local.
+
+### Software
+* Visual Studio Code para escribir el código.
+* PostgreSQL o MySQL para la base de datos.
+* Node.js o Python para el servidor.
+* Git y GitHub para trabajar juntos y subir el proyecto.
+* Render o Supabase para subir la base de datos a internet.
+
+---
+
+## Recursos y fuentes
+* Documentación oficial de los lenguajes y herramientas que usemos.
+* El Real Decreto-ley 8/2019 sobre la ley del registro horario en España.
+* Guías de la AEPD sobre el uso del GPS en el trabajo.
+* Tutoriales de autenticación con tokens JWT y cálculo de distancias por GPS.
+
 </details>
 
 <details>
