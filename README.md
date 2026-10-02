@@ -36,7 +36,7 @@ Aplicación web y plataforma para el registro y control de horario laboral de em
 
 <details>
 <summary><h2>3. Briefing de ideas</h2></summary>
-# Proyecto Orbis - Sistema de Fichaje y Control Horario
+# Proyecto ClockIn - Sistema de Fichaje y Control Horario
 
 ## Idea seleccionada
 **ClockIn**: Una página web y una app móvil para que los empleados puedan fichar al entrar y salir a trabajar, controlar las horas y gestionar el teletrabajo.
